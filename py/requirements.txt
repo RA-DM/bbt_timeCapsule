@@ -9,7 +9,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
 mysql-connector==2.2.9
-Pillow==7.1.2
+Pillow==8.2.0
 PyMySQL==0.9.3
 qrcode==6.1
 requests==2.23.0
